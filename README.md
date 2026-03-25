@@ -73,28 +73,27 @@ It calculates daily returns and evaluates financial risk using multiple statisti
 ```bash
 pip install numpy pandas matplotlib seaborn scipy yfinance pandas-datareader
 ```
-▶️ Run the Project
-python main.py
-📊 Use Cases
-📈 Financial Risk Management
-💼 Portfolio Optimization
-🏦 Quantitative Finance Analysis
-📊 Investment Strategy Evaluation
-📈 Future Improvements
-🌐 Deploy as web app (Streamlit)
-📊 Add interactive dashboard
-🤖 Integrate real-time trading signals
-📉 Add deep learning-based risk prediction
-📓 Google Colab Version
 
-This project was originally developed using Google Colab.
+##📊 Use Cases
+-📈 Financial Risk Management
+-💼 Portfolio Optimization
+-🏦 Quantitative Finance Analysis
+-📊 Investment Strategy Evaluation
+-📈 Future Improvements
+-🌐 Deploy as web app (Streamlit)
+-📊 Add interactive dashboard
+-🤖 Integrate real-time trading signals
+-📉 Add deep learning-based risk prediction
+-📓 Google Colab Version
 
-👉 You can run it directly here:
-Open in Colab
+-This project was originally developed using Google Colab.
 
-👨‍💻 Author
+-👉 You can run it directly on:
+ Colab
 
-Muhammad Anas
-🔗 GitHub: https://github.com/anas7272
+-👨‍💻 Author
 
-🔗 LinkedIn: https://linkedin.com/in/muhammadanas
+-Muhammad Anas
+-🔗 GitHub: https://github.com/anas7272
+
+-🔗 LinkedIn: https://linkedin.com/in/muhammadanas
