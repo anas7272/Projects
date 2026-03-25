@@ -72,6 +72,7 @@ It calculates daily returns and evaluates financial risk using multiple statisti
 
 ```bash
 pip install numpy pandas matplotlib seaborn scipy yfinance pandas-datareader
+```
 ▶️ Run the Project
 python main.py
 📊 Use Cases
